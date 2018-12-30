@@ -1,0 +1,39 @@
+times: Tuesdays 5:00pm - 7:40pm
+room: Academic Health Center 5 201
+name: Alex Afanasyev
+contact: aa at cs.fiu.edu
+office_hours: Thursdays 4:00pm - 6:00pm, PG6 141D (or appointment by email)
+
+midterm: Mar 19, 2019
+
+assignments:
+
+  - name: Homeworks
+    items:
+     - name:     Homework 1
+       deadline: Jan 15, 2019
+     - name:     Homework 2
+       deadline: Jan 22, 2019
+     - name:     Homework 3
+       deadline: Feb 12, 2019
+     - name:     Homework 4
+       deadline: Feb 19, 2019
+     - name:     Homework 5
+       deadline: Feb 28, 2019
+     - name:     Homework 6
+       deadline: Mar 5, 2019
+     - name:     Homework 7
+       deadline: Apr 2, 2019
+     - name:     Homework 8
+       deadline: Apr 16, 2019
+
+  - name: Project paper
+    items:
+     - name:     Topics
+       deadline: Jan 29, 2019
+     - name:     References
+       deadline: Feb 5, 2019
+     - name:     Outline
+       deadline: Mar 12, 2019
+     - name:     Final draft
+       deadline: Apr 9, 2019
