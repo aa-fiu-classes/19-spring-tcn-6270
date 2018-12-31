@@ -4,4 +4,4 @@ _site
 Gemfile.lock
 .travis.d/id-rsa
 _data/spreadsheets/
-
+.jekyll-cache/
