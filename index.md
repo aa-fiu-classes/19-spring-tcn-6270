@@ -16,7 +16,9 @@ Given wireless and mobile networking is a very dynamic and constantly changing a
 A big part of the course is experience with NS-3 simulator to run evaluations of mobile and wireless networks in different modes.
 {: class="bs-callout bs-callout-warning" }
 
-<!-- ## Course Announcements -->
+## Course Announcements
+
+**All classes starting (including) January 15, 2018 will be in room PG6 141**
 
 <!-- ## Class Calendar -->
 

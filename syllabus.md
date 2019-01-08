@@ -72,13 +72,16 @@ Additional theory and examples will be given and discussed in class as much as t
 
 ## Course Workload and Grading Information
 
-- (35%) Homeworks
+- (30%) Homeworks
 
-  * (2.5% each) 2 warm-up homeworks
+  * (1% each) 2 warm-up homeworks
   * (5% each) 4 homeworks programming NS-3 mobile and wireless networking scenarios
-  * (5% each) 2 paper reviews
+  * (4% each) 2 paper reviews
 
-- (35%) Exam
+- (40%) Exam
+
+  * (20%) Midterm
+  * (20%) Final
 
 - (20%) Project paper _(comprehensive survey of technical papers, industry standards, and/or products)_
 
